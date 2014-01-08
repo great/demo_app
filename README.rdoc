@@ -26,3 +26,14 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+---
+
+# multiple git account:
+
+* http://net.tutsplus.com/tutorials/tools-and-tips/how-to-work-with-github-and-multiple-accounts/
+* https://gist.github.com/jexchan/2351996
+* http://stackoverflow.com/questions/3225862/multiple-github-accounts-ssh-config
+* http://stackoverflow.com/questions/18725033/push-using-multiple-account-multiple-identity-on-github-bitbucket
+* http://stackoverflow.com/questions/3225862/multiple-github-accounts-ssh-config
+* http://www.freshblurbs.com/blog/2013/06/22/github-multiple-ssh-keys.html
